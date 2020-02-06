@@ -5,3 +5,5 @@ These files depend on several toolboxes and libraries, available here:
 * [dsp3](https://github.com/nfagan/dsp3)
 * [shared_utils](https://github.com/nfagan/shared_utils)
 * [categorical](https://github.com/nfagan/categorical)
+
+Data are available separately, [here](https://gin.g-node.org/changlab/medial-prefrontal-amygdala-coordination).
